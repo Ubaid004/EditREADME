@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Software Engineer with passion for Science <br>🌱 I’m currently learning Cloud and DevOps<br>💬 Ask me about Devops Tools and Practices <br>** shoot me on Email or add me on linkedin.
+🔭 I’m Software Engineer with passion for Science <br>🌱 I’m currently learning Cloud and VAPT<br>💬 Ask me Cybersecurity <br>** shoot me on Email or add me on linkedin.
 
 
 ## 🌐 Socials:
